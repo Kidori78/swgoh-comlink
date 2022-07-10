@@ -1,7 +1,0 @@
-{
-  "name": "swgoh-stats",
-  "description": "Calculates stats for SWGOH game data.",
-  "repository": "https://github.com/kidori78/swgoh-comlink/tree/main/Heroku-Stat-Calc",
-  "keywords": ["docker"],
-  "stack": "container"
-}
